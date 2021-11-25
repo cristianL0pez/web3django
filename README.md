@@ -15,3 +15,12 @@
 
 #### configurar base de datos 
 1.
+
+
+
+#### configuracion de infura api para ethereum
+1. crear cuenta en infura https://infura.io/
+2. from web3 import Web3 
+3. infura_url = "https://mainnet.infura.io/v3/a85133a2396a4ec599f76c3fafbcd161"
+4. web3 = Web3(Web3.HTTPProvider(infura_url))
+5. provar coneccion en un prompt de python con web3.isConnected()
