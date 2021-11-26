@@ -14,7 +14,7 @@
 3. django-admin startapp "nombreapp" en la carpeta apps
 
 #### configurar base de datos 
-1.
+1. en preparacion 
 
 
 
