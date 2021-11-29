@@ -25,3 +25,4 @@
 4. web3 = Web3(Web3.HTTPProvider(infura_url))
 5. probar coneccion en un prompt de python con web3.isConnected()
 6. 
+7. 
